@@ -25,3 +25,17 @@ body, a:link, a:visited, a:active{
   border-radius:10px;
   position:absolute;
 }
+.breakdancer{
+  border:30px solid blue;
+  border-radius:30px;
+  position:absolute;
+}
+.salsadancer{
+/*  border:40px solid yellow;
+  border-radius:40px;*/
+  height:200px;
+  width:200px;
+  padding:200px;
+  position:absolute;
+  background-image: url("http://i.stack.imgur.com/e8nZC.gif");
+}
